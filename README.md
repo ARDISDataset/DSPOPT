@@ -6,8 +6,8 @@ This is the MATLAB installer of the DSPOPT SOFTWARE. It is the implementation of
 <br><a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5953523" target="_blank">IEEE</a> | <a href="http://www.ncbi.nlm.nih.gov/pubmed/21768046" target="_blank">PubMed.</a>
 
 ## DSPOPT Installer
-To install the software, please run the excutable file in the folder "DSPOPT_Installer"
+To install the software, please download and run the MATLAB excutable file in the folder "DSPOPT_Installer"
 
-## DSPOPT Help File
+## DSPOPT Functions Documentation
 The help page is found at: <a href= "https://ardisdataset.github.io/DSPOPT/" target="_blank"> Here </a>.
 
